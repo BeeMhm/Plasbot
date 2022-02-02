@@ -25,7 +25,7 @@ class LiveEmbed {
 
     if (isLive) {
       // Title
-      msgEmbed.setTitle(`:red_circle: **${streamData.user_name} is live on Twitch!**`);
+      msgEmbed.setTitle(`:plashead: **${streamData.user_name} is LIVE on Twitch!**`);
       msgEmbed.addField("Title", streamData.title, false);
     } else {
       msgEmbed.setTitle(`:white_circle: ${streamData.user_name} was live on Twitch.`);
