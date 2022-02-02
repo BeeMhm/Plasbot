@@ -1,13 +1,12 @@
 {
-  "twitch_channels": "<SOME_TWITCH_CHANNEL_NAME>,<SOME_TWITCH_CHANNEL_NAME>",
+  "twitch_channels": "plasmax17",
   "discord_announce_channel": "stream-announcements",
   "discord_mentions": {
-    "<SOME_TWITCH_CHANNEL_NAME>": "everyone",
-    "<SOME_TWITCH_CHANNEL_NAME>": "here"
+    "plasmax17": "notify",
   },
-  "discord_bot_token": "<SET_ME>",
-  "twitch_client_id": "<SET_ME>",
-  "twitch_oauth_token": "<SET_ME>",
+  "discord_bot_token": "OTI4MTg5MjkxMDgxODkxODkx.YdVJow.0PxRibVrBXxGUbDk9g9nW_7P0ZY",
+  "twitch_client_id": "cw71nzk6sqw0ss17d9xrl7hyf9rdk1",
+  "twitch_oauth_token": "qulp48wj7oo4tzc5ry3vuinza4pc8c",
   "twitch_check_interval_ms": 60000,
   "twitch_use_boxart": true
 }
